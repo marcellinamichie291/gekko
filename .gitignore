@@ -1,0 +1,16 @@
+# general
+.DS_Store
+.vscode
+*.env
+*.log
+build
+node_modules
+package-lock.json
+typings
+lib
+venv
+env
+
+#firebase
+.firebase
+.firebaserc
